@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![Noureddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noureddine-prg&show_icons=true&theme=nord)
 
 <!--
 **Noureddine-prg/Noureddine-prg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
